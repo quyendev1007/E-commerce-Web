@@ -1,12 +1,57 @@
-# React + Vite
+# 🛒 E-commerce Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A full-stack e-commerce web application that includes both client and admin dashboards for managing products, categories, users, orders, and brands. Built using the **MERN** stack.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔧 Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React.js, React Query, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **API:** RESTful API
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Features
+
+### 👤 Admin Panel
+
+- User Management (CRUD)
+- Product Management
+- Category & Brand Management
+- Order Management
+
+
+- **User Management**  
+  *(Add/edit/remove users)*  
+
+- **Product Management**  
+  *(Add/edit/delete products)*  
+
+- **Category & Brand**  
+  *(Manage categories, brands, authors, publishers)*  
+
+- **Order Management**  
+  *(View order list and history)*  
+
+---
+
+### 🛍️ Client Features
+
+- User Registration and Login
+- Browse products by category, brand
+- View product details
+- Add products to shopping cart
+- Place orders
+- View order history
+
+📸 *Screenshots (Client Side):*
+
+- **Homepage & Product View**  
+
+- **Cart & Order**  
+
+- **Order History**  
+
+
